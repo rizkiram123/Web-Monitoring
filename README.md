@@ -36,3 +36,8 @@ Aplikasi web untuk memantau dan mengelola tugas antara Admin, Guru, dan Siswa. S
    ```bash
    git clone https://github.com/username/nama-repo.git
    cd nama-repo
+
+---
+
+## 🎶 Flowchart
+![Flowchart](flowchart.svg)
