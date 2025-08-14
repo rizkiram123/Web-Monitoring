@@ -41,3 +41,7 @@ Aplikasi web untuk memantau dan mengelola tugas antara Admin, Guru, dan Siswa. S
 
 ## 🎶 Flowchart
 ![Flowchart](flowchart.svg)
+
+
+## 🎶 dbdiagram
+![dbdiagram](dbdiagram.svg)
