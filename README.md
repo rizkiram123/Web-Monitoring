@@ -45,7 +45,7 @@ Aplikasi web untuk memantau dan mengelola tugas antara Admin, Guru, dan Siswa. S
 
 
 ## 🎶 use case
-![use case](use case.png)
+![Usecase.png](Usecase.png)
 
 
 ## 🎶 activity
