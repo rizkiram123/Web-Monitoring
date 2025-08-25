@@ -34,7 +34,7 @@ Aplikasi web untuk memantau dan mengelola tugas antara Admin, Guru, dan Siswa. S
 
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/rizkiram123/nama-repo.git
    cd nama-repo
 
 ---
