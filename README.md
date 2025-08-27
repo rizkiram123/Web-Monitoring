@@ -1,24 +1,25 @@
-# 📚 Web Monitoring Tugas
+📚 Web Monitoring Tugas
 
-Aplikasi web untuk memantau dan mengelola tugas antara Admin, Guru, dan Siswa. Setiap role memiliki hak akses dan fitur masing-masing.
+Sebuah aplikasi web untuk memantau, mengelola, dan menilai tugas. Dirancang agar Admin, Guru, dan Siswa bisa terhubung dalam satu sistem yang rapi.
 
-## 🧑‍💼 Role & Fitur
+🧑‍💼 Role & Fitur Utama
+🛠️ Admin
 
-### 🛠️ Admin
-- Kelola data pengguna (guru & siswa)
-- Kelola kelas / mapel
-- Lihat statistik pengumpulan tugas
+- 🔑 Kelola akun pengguna (Guru & Siswa)
+- 🏫 Atur data kelas & mata pelajaran
+- 📊 Pantau statistik pengumpulan tugas
 
-### 👨‍🏫 Guru
-- Buat tugas
-- Lihat daftar pengumpulan
-- Nilai tugas & beri komentar
+👨‍🏫 Guru
 
-### 👨‍🎓 Siswa
-- Lihat daftar tugas
-- Unggah / update tugas
-- Lihat status tugas dan feedback dari guru
+- ✍️ Membuat & membagikan tugas
+- 📂 Melihat daftar pengumpulan siswa
+- ✅ Memberi nilai serta feedback
 
+👨‍🎓 Siswa
+
+- 📋 Melihat daftar tugas & deadline
+- 📤 Upload atau update hasil tugas
+- 📨 Mengecek status & komentar dari guru
 ---
 
 ## ⚙️ Teknologi
