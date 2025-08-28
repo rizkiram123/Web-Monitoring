@@ -46,7 +46,7 @@ Sebuah aplikasi web untuk memantau, mengelola, dan menilai tugas. Dirancang agar
 
 
 ## 🎶 use case
-![usecase.svg](usecase.svg)
+![Usecase.svg](Usecase.svg)
 
 
 ## 🎶 activity
