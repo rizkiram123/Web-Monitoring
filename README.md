@@ -1,69 +1,82 @@
 📚 Web Monitoring Tugas
 
-Sebuah aplikasi web untuk memantau, mengelola, dan menilai tugas. Dirancang agar Admin, Guru, dan Siswa bisa terhubung dalam satu sistem yang rapi.
+Aplikasi web untuk memantau, mengelola, dan menilai tugas sekolah. Sistem ini menghubungkan Admin, Guru, dan Siswa dalam satu platform yang terintegrasi, sederhana, dan efisien.
 
-🧑‍💼 Role & Fitur Utama
+👥 Role & Fitur
 🛠️ Admin
 
-- 🔑 Kelola akun pengguna (Guru & Siswa)
-- 🏫 Atur data kelas & mata pelajaran
-- 📊 Pantau statistik pengumpulan tugas
+🔑 Kelola akun pengguna (Guru & Siswa)
+
+🏫 Atur data kelas & mata pelajaran
+
+📊 Pantau statistik pengumpulan tugas
 
 👨‍🏫 Guru
 
-- ✍️ Membuat & membagikan tugas
-- 📂 Melihat daftar pengumpulan siswa
-- ✅ Memberi nilai serta feedback
+✍️ Membuat & membagikan tugas
+
+📂 Melihat daftar pengumpulan siswa
+
+✅ Memberikan nilai & feedback
 
 👨‍🎓 Siswa
 
-- 📋 Melihat daftar tugas & deadline
-- 📤 Upload atau update hasil tugas
-- 📨 Mengecek status & komentar dari guru
----
+📋 Melihat daftar tugas & deadline
 
-## ⚙️ Teknologi
+📤 Upload / update hasil tugas
 
-- PHP (Native)
-- MySQL
-- HTML, CSS (Tailwind), JavaScript
-- (Optional) Bootstrap / jQuery
+📨 Mengecek status & komentar dari guru
 
----
+⚙️ Teknologi yang Digunakan
 
-## 🚀 Instalasi Lokal
+Backend : PHP (Native)
 
-1. Clone repo ini:
-   ```bash
-   git clone https://github.com/rizkiram123/nama-repo.git
-   cd nama-repo
+Database : MySQL
 
----
+Frontend : HTML, CSS (TailwindCSS), JavaScript
 
+Opsional : Bootstrap / jQuery
 
-## 🎶 dbdiagram
-![dbdiagram](dbdiagram.svg)
+🚀 Instalasi Lokal
+
+Clone repository ini
+
+git clone https://github.com/rizkiram123/nama-repo.git
+cd nama-repo
 
 
-## 🎶 use case
-![Usecase.svg](Usecase.svg)
+Import database dari file .sql ke MySQL
+
+Atur konfigurasi database di file config.php
+
+Jalankan di browser melalui http://localhost/nama-repo
+
+🗂️ Dokumentasi Sistem
+📌 ERD / Database Diagram
+
+📌 Use Case Diagram
+
+📌 Activity Diagram
+
+📌 Flowchart
+
+🖥️ Tampilan Antarmuka
+
+🔐 Halaman Login
 
 
-## 🎶 activity
-![Activity.svg](Activity.svg)
+📊 Dashboard Admin
 
 
-## 🎶 flowchart
-![FLOWCHART.svg](FLOWCHART.svg)
+📌 Dashboard Guru
 
 
+📚 Dashboard Siswa
 
-## 🎶 Tampilan
-Halaman Login
-![Login.png](Login.png)
-Dashboard Admin
-![Dashboard_admin.png](Dashboard_admin.png)
-Dashboard Guru
-![Dashboard_guru.png](Dashboard_guru.png)
-Dashboard Siswa
-![Dashboard_murid.png](Dashboard_murid.png)
+
+✨ Fitur Utama
+
+✔️ Multi-role (Admin, Guru, Siswa)
+✔️ Monitoring tugas real-time
+✔️ Nilai & feedback langsung dari guru
+✔️ Tampilan dashboard sederhana & responsif
