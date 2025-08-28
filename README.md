@@ -40,21 +40,32 @@ Jalankan di browser melalui http://localhost/nama-repo
 🗂️ Dokumentasi Sistem
 📌 ERD / Database Diagram
 ![dbdiagram](dbdiagram.svg)
+
+
 📌 Use Case Diagram
 ![Usecase.svg](Usecase.svg)
+
+
 📌 Activity Diagram
 ![Activity.svg](Activity.svg)
+
+
 📌 Flowchart
 ![FLOWCHART.svg](FLOWCHART.svg)
+
+
 🖥️ Tampilan Antarmuka
 🔐 Halaman Login
 ![Dashboard_admin.png](Dashboard_admin.png)
 
+
 📊 Dashboard Admin
 ![Dashboard_admin.png](Dashboard_admin.png)
 
+
 📌 Dashboard Guru
 ![Dashboard_guru.png](Dashboard_guru.png)
+
 
 📚 Dashboard Siswa
 ![Dashboard_murid.png](Dashboard_murid.png)
