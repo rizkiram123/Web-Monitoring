@@ -54,4 +54,4 @@ Sebuah aplikasi web untuk memantau, mengelola, dan menilai tugas. Dirancang agar
 
 
 ## 🎶 flowchart
-![Flowchart.svg](Flowchart.svg)
+![FLOWCHART.svg](FLOWCHART.svg)
