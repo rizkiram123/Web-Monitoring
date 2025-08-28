@@ -60,7 +60,7 @@ Jalankan di browser melalui http://localhost/nama-repo
 🖥️ Tampilan Antarmuka
 
 🔐 Halaman Login
-![Dashboard_admin.png](Dashboard_admin.png)
+![Login.png(Login.png)
 
 
 📊 Dashboard Admin
