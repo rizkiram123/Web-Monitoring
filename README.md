@@ -44,21 +44,12 @@ Jalankan di browser melalui http://localhost/nama-repo
 ![dbdiagram](dbdiagram.svg)
 
 
-
-
-
 📌 Use Case Diagram
 ![Usecase.svg](Usecase.svg)
 
 
-
-
-
-
-
 📌 Activity Diagram
 ![Activity.svg](Activity.svg)
-
 
 
 📌 Flowchart
@@ -66,6 +57,7 @@ Jalankan di browser melalui http://localhost/nama-repo
 
 
 🖥️ Tampilan Antarmuka
+
 🔐 Halaman Login
 ![Dashboard_admin.png](Dashboard_admin.png)
 
