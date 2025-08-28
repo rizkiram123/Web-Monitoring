@@ -42,8 +42,17 @@ Jalankan di browser melalui http://localhost/nama-repo
 
 📌 ERD / Database Diagram
 ![dbdiagram](dbdiagram.svg)
+
+
+
+
+
 📌 Use Case Diagram
 ![Usecase.svg](Usecase.svg)
+
+
+
+
 
 
 
