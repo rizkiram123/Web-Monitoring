@@ -59,7 +59,11 @@ Sebuah aplikasi web untuk memantau, mengelola, dan menilai tugas. Dirancang agar
 
 
 ## 🎶 Tampilan
+Halaman Login
 ![Login.png](Login.png)
+Dashboard Admin
 ![Dashboard_admin.png](Dashboard_admin.png)
+Dashboard Guru
 ![Dashboard_guru.png](Dashboard_guru.png)
+Dashboard Siswa
 ![Dashboard_murid.png](Dashboard_murid.png)
