@@ -8,7 +8,7 @@ Aplikasi web untuk memantau, mengelola, dan menilai tugas sekolah. Sistem ini me
 - 🏫 Atur data kelas & mata pelajaran
 - 📊 Pantau statistik pengumpulan tugas
 
-👨‍🏫 Gur
+👨‍🏫 Guru
 
 - ✍️ Membuat & membagikan tugas
 - 📂 Melihat daftar pengumpulan siswa
@@ -44,12 +44,15 @@ Jalankan di browser melalui http://localhost/nama-repo
 ![dbdiagram](dbdiagram.svg)
 
 
+
 📌 Use Case Diagram
 ![Usecase.svg](Usecase.svg)
 
 
+
 📌 Activity Diagram
 ![Activity.svg](Activity.svg)
+
 
 
 📌 Flowchart
