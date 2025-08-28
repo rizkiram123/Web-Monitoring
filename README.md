@@ -55,3 +55,11 @@ Sebuah aplikasi web untuk memantau, mengelola, dan menilai tugas. Dirancang agar
 
 ## 🎶 flowchart
 ![FLOWCHART.svg](FLOWCHART.svg)
+
+
+
+## 🎶 Tampilan
+![Login.png](Login.png)
+![Dashboard_admin.png](Dashboard_admin.png)
+![Dashboard_guru.png](Dashboard_guru.png)
+![Dashboard_murid.png](Dashboard_murid.png)
